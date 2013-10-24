@@ -9,12 +9,18 @@ A pure implementation of a dialog using only css and html. Sorry JavaScript, you
 ##Details
 
 ##TODOs
-TODO: Types of buttons to create
+TODO: Types of buttons
 - Basic
 - Image
 - Inline HTML Image
 - Flash
 - HTML5 Video
-- Transitions
 - Slideshow
 - Retina
+
+TODO: Transitions
+- Slide In
+- - from top, right, bottom & left
+- Fade In
+- - Fast
+- - Slow
