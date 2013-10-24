@@ -24,3 +24,9 @@ TODO: Transitions
 - Fade In
 - - Fast
 - - Slow
+- 
+
+--- 
+
+##Support
+- works in latest versions of Chrome, Safari, Firefox, IE
